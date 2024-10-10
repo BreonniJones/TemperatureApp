@@ -1,0 +1,7 @@
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\TemperatureConverterApp\bin\Debug\TemperatureConverterApp.exe.config
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\TemperatureConverterApp\bin\Debug\TemperatureConverterApp.exe
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\TemperatureConverterApp\bin\Debug\TemperatureConverterApp.pdb
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp.csproj.AssemblyReference.cache
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp.exe
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp.pdb

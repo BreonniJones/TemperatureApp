@@ -1,0 +1,10 @@
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\operationsApplication\obj\Debug\operationsApplication.csproj.AssemblyReference.cache
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\operationsApplication\obj\Debug\operationsApplication.csproj.CoreCompileInputs.cache
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\operationsApplication\bin\Debug\operationsApplication.exe.config
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\operationsApplication\bin\Debug\operationsApplication.exe
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\operationsApplication\bin\Debug\operationsApplication.pdb
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\operationsApplication\bin\Debug\operationsLibrary.dll
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\operationsApplication\bin\Debug\operationsLibrary.pdb
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\operationsApplication\obj\Debug\operationsApplication.csproj.CopyComplete
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\operationsApplication\obj\Debug\operationsApplication.exe
+C:\Users\jonbrem\source\repos\TemperatureConverterApp\operationsApplication\obj\Debug\operationsApplication.pdb
